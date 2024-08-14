@@ -62,7 +62,7 @@ Example-
     Check out the Twitter bot in action: TheNews_Bot
 
 Authors-
-    Your Name
+    Siddharth Khorwal
 License-
     This project is licensed under the MIT License.
 
